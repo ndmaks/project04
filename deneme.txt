@@ -1,4 +1,5 @@
 merhaba
 nasılsın 
 iyimisin
-yeni ekledim 
+yeni ekledim
+tekrar ekledim
